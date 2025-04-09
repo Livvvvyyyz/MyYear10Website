@@ -16,14 +16,14 @@ img {
 
 /* The hero section styling- use your OWN Hero Image URL here */
 .hero {
-    background-image: url('images/techquitybanner-1130x160.png');
+    background-image: url('images/Pompompurin\ heading.jpg');
     height: 25vh;
     background-size: cover;
     background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: rgb(255, 207, 117);
     text-align: center;
     position: relative;
 }
@@ -36,10 +36,10 @@ img {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: white;
+    color: rgb(82, 59, 41);
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color: rgb(71, 71, 71);
+    background-color: hsl(225, 207, 117);
 }
 
 /* Three column grid with a nice big gap */
@@ -55,8 +55,8 @@ img {
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgb(71, 71, 71);
-    color: white;
+    background-color: rgb(250, 237, 164);
+    color: rgb(255, 208, 138);
     padding: 1em;
     border-radius: 0.5em;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
@@ -73,8 +73,8 @@ img {
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
-    background-color: rgb(71, 71, 71);
-    color: white;
+    background-color: rgb(255, 218, 137);
+    color: rgb(255, 231, 151);
     text-align: right;
     padding: 3em 3em;
 }

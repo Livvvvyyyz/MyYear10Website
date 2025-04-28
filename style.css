@@ -36,10 +36,10 @@ img {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: rgb(82, 59, 41);
+    color: rgb(105, 78, 42);
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color: hsl(225, 207, 117);
+    background-color: rgb(255, 207, 117);
 }
 
 /* Three column grid with a nice big gap */
@@ -74,7 +74,7 @@ img {
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
     background-color: rgb(255, 218, 137);
-    color: rgb(255, 231, 151);
+    color: rgb(105, 78, 42);
     text-align: right;
     padding: 3em 3em;
 }
